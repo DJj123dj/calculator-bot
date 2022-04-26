@@ -1,0 +1,5 @@
+{
+    "token":"auth token",
+    "serverId":"server id for slash commands",
+    "color":"#ffffff (color for embeds)"
+}
